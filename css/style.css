@@ -62,7 +62,7 @@ img:hover {
 
 .column {
   width:10%;
-  display: block;
+  display: inline;
   
 }
 
